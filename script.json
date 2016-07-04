@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m your future corporate consultant, a bot that can advise you on corporate structuring, draft the related documentation and even file it with the relevant authorities.\n Together with Ross, Airhelp, DoNotPay and various others, we will help your lawyers to take a vacation.",
+    "BOT": "Hi there!\nI’m your future corporate consultant, a bot that can advise you on corporate structuring, draft the required documentation and even file documents with the relevant authorities.\n Together with Ross, Airhelp, DoNotPay and various others, we will help your lawyers to take a vacation.",
     "HELLO": "Hey, I'm so glad you give InkBot a chance! Do you want to tell your friends that you're being assisted by InkBot? %[Tweet](postback:twitter).",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
